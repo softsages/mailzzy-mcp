@@ -17,6 +17,7 @@ https://api.mailzzy.com/crm/mcp/
 
 | | |
 | --- | --- |
+| Documentation | https://mailzzy.com/docs/#mcp-overview |
 | Transport | Streamable HTTP |
 | Authentication | OAuth 2.1 with PKCE and dynamic client registration (sign in with Mailzzy) |
 | Tools | 47 ([full list](docs/tools.md)) |
