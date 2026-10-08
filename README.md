@@ -4,6 +4,8 @@
 
 # Mailzzy MCP Server
 
+[![Mailzzy MCP connector – tool definition quality and endpoint health on Glama](https://glama.ai/mcp/connectors/com.mailzzy/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.mailzzy/mcp)
+
 Connect Claude, ChatGPT, Cursor, VS Code and other MCP clients to your Mailzzy account. Ask your
 assistant to build an audience, draft a campaign, check it against your sending limits, send a test,
 and schedule it, then pull the performance report when it goes out.
@@ -52,6 +54,7 @@ https://api.mailzzy.com/crm/mcp/
 
 - [Official MCP Registry](https://registry.modelcontextprotocol.io/v0/servers?search=com.mailzzy/mcp) as `com.mailzzy/mcp`
 - [Smithery](https://smithery.ai/servers/softsages/mailzzy)
+- [Glama](https://glama.ai/mcp/connectors/com.mailzzy/mcp)
 
 ## Connect your client
 
