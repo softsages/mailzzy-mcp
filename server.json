@@ -3,10 +3,10 @@
   "name": "com.mailzzy/mcp",
   "title": "Mailzzy",
   "description": "Email marketing: campaigns, audiences, contacts, segments, templates and reports.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "websiteUrl": "https://www.mailzzy.com/",
   "repository": {
-    "url": "https://github.com/__GITHUB_ORG__/mailzzy-mcp",
+    "url": "https://github.com/softsages/mailzzy-mcp",
     "source": "github"
   },
   "remotes": [

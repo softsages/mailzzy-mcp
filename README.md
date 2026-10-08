@@ -48,6 +48,11 @@ https://api.mailzzy.com/crm/mcp/
   Tuesday 10am my time."
 - "Which recipient domains are bouncing most this month?"
 
+## Listings
+
+- [Official MCP Registry](https://registry.modelcontextprotocol.io/v0/servers?search=com.mailzzy/mcp) as `com.mailzzy/mcp`
+- [Smithery](https://smithery.ai/servers/softsages/mailzzy)
+
 ## Connect your client
 
 ### Claude (claude.ai, desktop and mobile)
