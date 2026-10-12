@@ -2,6 +2,11 @@
 
 Changes to the hosted Mailzzy MCP server that affect connected clients.
 
+## 2026-10-12
+
+- Two new read-only tools: export the contacts in a segment or group as CSV, and check an export's status (49 tools).
+- Docs: added Cline setup (README section and `llms-install.md`).
+
 ## 1.0.1 - 2026-10-08
 
 - Registry entry now links this repository.

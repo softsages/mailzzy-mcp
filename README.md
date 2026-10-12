@@ -22,7 +22,7 @@ https://api.mailzzy.com/crm/mcp/
 | Documentation | https://mailzzy.com/docs/#mcp-overview |
 | Transport | Streamable HTTP |
 | Authentication | OAuth 2.1 with PKCE and dynamic client registration (sign in with Mailzzy) |
-| Tools | 47 ([full list](docs/tools.md)) |
+| Tools | 49 ([full list](docs/tools.md)) |
 | Account needed | Yes, a Mailzzy account ([sign up](https://www.mailzzy.com/)) |
 | Registry name | `com.mailzzy/mcp` |
 
@@ -35,7 +35,8 @@ https://api.mailzzy.com/crm/mcp/
   scheduled campaign.
 - **Audiences**: pick groups, segments or tags, see the de-duplicated recipient count, and check it
   against your daily and monthly sending limits before you send.
-- **Contacts**: create, update, tag, group, archive, and bulk-import from CSV.
+- **Contacts**: create, update, tag, group, archive, bulk-import from CSV, and export a segment
+  or group as CSV.
 - **Segments**: build saved filters, preview how many contacts match, then save them.
 - **Templates and automations**: create and edit email templates and automation workflows.
 - **Transactional email**: send a one-to-one email and read delivery logs.
@@ -104,6 +105,33 @@ with the URL `https://api.mailzzy.com/crm/mcp/` and authentication **OAuth**.
   }
 }
 ```
+
+### Cline
+
+In the Cline panel open **MCP Servers** > **Configure** > **Remote Servers**, then add:
+
+- **Server Name:** `mailzzy`
+- **Server URL:** `https://api.mailzzy.com/crm/mcp/`
+- **Transport Type:** Streamable HTTP
+
+Or edit `cline_mcp_settings.json` directly (**Configure** > **Configure MCP Servers**):
+
+```json
+{
+  "mcpServers": {
+    "mailzzy": {
+      "type": "streamableHttp",
+      "url": "https://api.mailzzy.com/crm/mcp/",
+      "disabled": false,
+      "autoApprove": []
+    }
+  }
+}
+```
+
+Sign in with your Mailzzy account when Cline opens the browser. If the server shows an
+authentication error, remove it and add it again to restart the sign-in. Setup notes written for
+Cline itself are in [llms-install.md](llms-install.md).
 
 ### Any other MCP client
 

@@ -1,6 +1,6 @@
 # Mailzzy MCP tools
 
-47 tools. Generated from the production tool registry; do not edit by hand.
+49 tools. Generated from the production tool registry; do not edit by hand.
 
 Access levels:
 
@@ -11,7 +11,7 @@ Access levels:
 
 | Access | Tools |
 | --- | --- |
-| Read | 22 |
+| Read | 24 |
 | Write | 20 |
 | Write (destructive) | 2 |
 | Sends email | 3 |
@@ -39,6 +39,8 @@ Access levels:
 | `mcp_crm_contacts_bulk_create` | Write | Create a small number of contacts from structured data in the conversation. |
 | `mcp_crm_contacts_create` | Write | Create a single contact in a contact group. |
 | `mcp_crm_contacts_delete` | Write (destructive) | Soft-delete (archive) a single contact. |
+| `mcp_crm_contacts_export` | Read | Export the contacts in a segment or group as a CSV file (zipped) the user can download. |
+| `mcp_crm_contacts_export_status` | Read | Check a contact export started with mcp_crm_contacts_export. |
 | `mcp_crm_contacts_get` | Read | Fetch a single contact by its numeric id. |
 | `mcp_crm_contacts_list` | Read | List contacts. |
 | `mcp_crm_contacts_remove_from_group` | Write | Remove a contact from a contact group. |
