@@ -63,7 +63,7 @@ https://api.mailzzy.com/crm/mcp/
 - [MCP Server Spot](https://www.mcpserverspot.com/servers/mailzzy-mcp-server)
 - [MCP Marketplace](https://mcp-marketplace.io/server/com-mailzzy-mcp)
 - [AgentShare](https://agentshare.dev/registry?q=mailzzy)
-- [Cursor Directory](https://cursor.directory/)
+- [Cursor Directory](https://cursor.directory/plugins/mailzzy)
 
 ## Connect your client
 
