@@ -64,6 +64,7 @@ https://api.mailzzy.com/crm/mcp/
 - [MCP Marketplace](https://mcp-marketplace.io/server/com-mailzzy-mcp)
 - [AgentShare](https://agentshare.dev/registry?q=mailzzy)
 - [Cursor Directory](https://cursor.directory/plugins/mailzzy)
+- [LobeHub](https://lobehub.com/mcp/softsages-mailzzy-mcp)
 
 ## Connect your client
 
