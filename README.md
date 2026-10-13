@@ -58,6 +58,12 @@ https://api.mailzzy.com/crm/mcp/
 - [Smithery](https://smithery.ai/servers/softsages/mailzzy)
 - [Glama](https://glama.ai/mcp/connectors/com.mailzzy/mcp)
 - [mcpi](https://mcpi.app/servers/mailzzy) (connection status and client compatibility)
+- [Awesome Remote MCP Servers](https://github.com/punkpeye/awesome-remote-mcp-servers)
+- [mcpservers.org](https://mcpservers.org/servers/mailzzy-com)
+- [MCP Server Spot](https://www.mcpserverspot.com/servers/mailzzy-mcp-server)
+- [MCP Marketplace](https://mcp-marketplace.io/server/com-mailzzy-mcp)
+- [AgentShare](https://agentshare.dev/registry?q=mailzzy)
+- [Cursor Directory](https://cursor.directory/)
 
 ## Connect your client
 
