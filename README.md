@@ -6,6 +6,7 @@
 
 [![Mailzzy MCP connector – tool definition quality and endpoint health on Glama](https://glama.ai/mcp/connectors/com.mailzzy/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.mailzzy/mcp)
 [![Mailzzy MCP status on mcpi](https://mcpi.app/servers/mailzzy/badge.svg)](https://mcpi.app/servers/mailzzy)
+[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-softsages-mailzzy-mcp-4c772044/badge.svg)](https://tensorblock.co/mcp/servers/github-softsages-mailzzy-mcp-4c772044)
 
 Connect Claude, ChatGPT, Cursor, VS Code and other MCP clients to your Mailzzy account. Ask your
 assistant to build an audience, draft a campaign, check it against your sending limits, send a test,
@@ -65,6 +66,7 @@ https://api.mailzzy.com/crm/mcp/
 - [AgentShare](https://agentshare.dev/registry?q=mailzzy)
 - [Cursor Directory](https://cursor.directory/plugins/mailzzy)
 - [LobeHub](https://lobehub.com/mcp/softsages-mailzzy-mcp)
+- [TensorBlock MCP Index](https://tensorblock.co/mcp/servers/github-softsages-mailzzy-mcp-4c772044)
 
 ## Connect your client
 
